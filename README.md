@@ -166,6 +166,25 @@ outputs/charts/
 - KPI Dashboard
 
 ---
+# 📸 Sample Visualizations
+
+## Monthly Sales Trend
+
+![Monthly Sales](outputs/charts/monthly_sales.png)
+
+---
+
+## Top Selling Products
+
+![Top Products](outputs/charts/top_products.png)
+
+---
+
+## Region-wise Sales Distribution
+
+![Region Sales](outputs/charts/region_sales.png)
+
+---
 
 # 👨‍💻 Author
 
