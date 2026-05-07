@@ -169,8 +169,4 @@ outputs/charts/
 
 # 👨‍💻 Author
 
-Prateek 
-
-# 🔗 Connect With Me
-
-- [LinkedIn](https://linkedin.com/in/prateek-gupta-a42247293)
+Prateek Contact - (https://linkedin.com/in/prateek-gupta-a42247293)
