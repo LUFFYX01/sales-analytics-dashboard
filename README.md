@@ -154,6 +154,11 @@ Charts are saved inside:
 ```bash
 outputs/charts/
 ```
+---
+
+# 📊 Power BI Dashboard
+
+![Dashboard](outputs/dashboard/dashboard.png)
 
 ---
 
