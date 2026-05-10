@@ -1,6 +1,6 @@
-# 📊 Sales Analytics Dashboard
+#  Sales Analytics Dashboard
 
-## 🔍 Overview
+##  Overview
 
 This project performs sales data analysis on a retail Superstore dataset using Python.  
 The goal of the project is to clean and analyze sales data to identify:
@@ -17,7 +17,7 @@ The project includes:
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 - Python
 - Pandas
@@ -26,7 +26,7 @@ The project includes:
 
 ---
 
-# 📂 Dataset Information
+#  Dataset Information
 
 - Total Records: 9,800
 - Total Columns: 18
@@ -44,7 +44,7 @@ The project includes:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```bash
 sales-analysis/
@@ -68,7 +68,7 @@ sales-analysis/
 
 ---
 
-# 🧹 Data Preprocessing
+#  Data Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -80,25 +80,25 @@ The following preprocessing steps were performed:
 
 ---
 
-# 📊 Analysis Performed
+#  Analysis Performed
 
-## 1️⃣ Monthly Sales Analysis
+## 1️ Monthly Sales Analysis
 - Identified monthly sales trends
 - Determined highest-performing sales month
 
-## 2️⃣ Top-Selling Products
+## 2️ Top-Selling Products
 - Identified top 10 products by revenue
 - Analyzed product-wise sales contribution
 
-## 3️⃣ Region-wise Sales Analysis
+## 3️ Region-wise Sales Analysis
 - Compared sales performance across regions
 - Identified best-performing region
 
-## 4️⃣ Category-wise Sales Analysis
+## 4️ Category-wise Sales Analysis
 - Compared category sales performance
 - Identified highest revenue-generating category
 
-## 5️⃣ Statistical Analysis (NumPy)
+## 5️ Statistical Analysis (NumPy)
 Performed:
 - Mean Sales
 - Median Sales
@@ -108,7 +108,7 @@ Performed:
 
 ---
 
-# 📈 Visualizations
+#  Visualizations
 
 - Monthly Sales Trend Line Chart
 - Top Products Bar Chart
@@ -116,7 +116,7 @@ Performed:
 
 ---
 
-# 💡 Key Insights
+#  Key Insights
 
 - Technology category generated the highest sales
 - Sales performance varied significantly across regions
@@ -125,7 +125,7 @@ Performed:
 
 ---
 
-# ▶️ How to Run
+#  How to Run
 
 Install dependencies:
 
@@ -141,7 +141,7 @@ python main.py
 
 ---
 
-# 📂 Output Generated
+#  Output Generated
 
 The project generates:
 - Cleaned dataset
@@ -156,13 +156,13 @@ outputs/charts/
 ```
 ---
 
-# 📊 Power BI Dashboard
+#  Power BI Dashboard
 
 ![Dashboard](outputs/dashboard/dashboard.png)
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 - Power BI Dashboard Integration
 - Streamlit Dashboard
@@ -171,7 +171,7 @@ outputs/charts/
 - KPI Dashboard
 
 ---
-# 📸 Sample Visualizations
+#  Sample Visualizations
 
 ## Monthly Sales Trend
 
@@ -191,6 +191,6 @@ outputs/charts/
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 Prateek - (https://linkedin.com/in/prateek-gupta-a42247293)
